@@ -10,4 +10,4 @@ Projeto de desenvolvimento para criar um banco de dados fictício normalizado do
 
 ## Para rodar o projeto:
 
-É necessario ter o MongoDB instalado para rodar o projeto.
+É necessario ter o Mysql instalado para rodar o projeto.
